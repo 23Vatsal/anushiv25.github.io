@@ -1,2 +1,2 @@
 # anushiv25.github.io
-My Portfolio site
+This is my portfolio site which includes details of my trainings, internships, projects as well as certificates.
